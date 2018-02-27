@@ -1,0 +1,26 @@
+{
+  "name": "awax",
+  "version": "1.0.0",
+  "description": "12.8 awax website",
+  "main": "index.html",
+  "dependencies": {
+    "abbrev": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radko79/Kodilla-W12.8.git"
+  },
+  "keywords": [
+    "awax"
+  ],
+  "author": "Radoslaw Podgorski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radko79/Kodilla-W12.8/issues"
+  },
+  "homepage": "https://github.com/radko79/Kodilla-W12.8#readme"
+}
